@@ -28,7 +28,7 @@ Or via the API:
 >>> import astmath
 >>> astmath.eval("2 + 3 * 4")
 14
->>> astmath.eval("foo" * 3)
+>>> astmath.eval('"foo" * 3')
 'foofoofoo'
 ```
 
